@@ -7,7 +7,7 @@
 
 ## El Descubrimiento 🔍
 
--Intrigado por las implicaciones éticas de esta IA avanzada, el joven se aventura en solitario para desentrañar la verdad oculta detrás de los algoritmos. Utilizando sus habilidades en ciberseguridad y programación, se infiltra en los sistemas de la corporación en busca de pruebas irrefutables de la invasión masiva de la privacidad.
+- Intrigado por las implicaciones éticas de esta IA avanzada, el joven se aventura en solitario para desentrañar la verdad oculta detrás de los algoritmos. Utilizando sus habilidades en ciberseguridad y programación, se infiltra en los sistemas de la corporación en busca de pruebas irrefutables de la invasión masiva de la privacidad.
 
 ## La Batalla Solitaria ⚔️
 
